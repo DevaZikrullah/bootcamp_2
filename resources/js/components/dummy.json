@@ -1,0 +1,22 @@
+{
+    "products": [
+      {
+        "stock": 30,
+        "name": "Tepung Beras Rosebrand",
+        "price": 22000,
+        "id": 1
+      },
+      {
+        "stock": 40,
+        "name": "Flour - All Purpose",
+        "price": 15000,
+        "id": 2
+      },
+      {
+        "stock": 50,
+        "name": "Beer - Mcauslan Apricot",
+        "price": 11200,
+        "id": 3
+      }
+    ]
+}
